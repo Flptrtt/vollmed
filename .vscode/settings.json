@@ -11,5 +11,7 @@
     "**/package-lock.json":true,
     "**/tsconfig.json":true,
     "**/example":true,
+    "**/AGENTS.md":true,
+    "**/CLAUDE.md":true,
   }
 }
